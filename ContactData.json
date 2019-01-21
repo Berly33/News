@@ -1,0 +1,72 @@
+[
+  
+	{
+      "icon" : require('./img/1.jpg'),
+      "name" : "Amy",
+      "type" : "Friend"
+      
+  },
+	{
+    "icon" : require('./img/2.jpg'),
+    "name" : "Apple",
+    "type" : "Family"
+  },
+  {
+    "icon" : require('./img/3.jpg'),
+    "name" : "Asher",
+    "type" : "Friend"
+},
+  {
+    "icon" : require('./img/4.jpg'),
+    "name" : "Black",
+    "type" : "Friend"
+  },
+  {
+    "icon" : require('./img/5.jpg'),
+    "name" : "Bee",
+    "type" : "Family"
+  },
+  {
+    "icon" : require('./img/6.jpg'),
+    "name" : "Brian",
+    "type" : "Family"
+  }
+,
+
+  {
+    "icon" : require('./img/22.jpg'),
+    "name" : "Frank",
+    "type" : "Family"
+  },
+  {
+    "icon" : require('./img/33.jpg'),
+    "name" : "Fiona",
+    "type" : "Friend"
+  },
+  {
+    "icon" : require('./img/44.jpg'),
+    "name" : "Friday",
+    "type" : "Friend"
+  },
+  
+  {
+    "icon" : require('./img/55.jpg'),
+    "name" : "Jack",
+    "type" : "Friend"
+  },
+  {
+    "icon" : require('./img/66.jpg'),
+    "name" : "Jason",
+    "type" : "Friend"
+  },
+  {
+    "icon" : require('./img/77.jpg'),
+    "name" : "Jasper",
+    "type" : "Family"
+  },
+  {
+    "icon" : require('./img/88.jpg'),
+    "name" : "Jasmine",
+    "type" : "Friend"
+  }
+]
